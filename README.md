@@ -1,6 +1,8 @@
-# API Luhn Algoritm
+# API Luhn Algorithm
 
-API Luhn Algoritm is a demo program to show how you can generate and validate numbers ruled by Luhn Algoritm. This is an API built NET Core 5.0 - C#. Remember that credit cards usually use Luhn Numbers, so you can check is a credit card number is valid using validate endopoint of this API.
+API Luhn Algorithm is a demo program to show how you can generate and validate numbers ruled by Luhn Algoritm. This is an API built NET Core 5.0 - C#. Remember that credit cards usually use Luhn Numbers, so you can check is a credit card number is valid using validate endopoint of this API.
+
+In this link, you can get info about Luhn Algorithm. [Luhn Algorithm Wikipedia](https://en.wikipedia.org/wiki/Luhn_algorithm)
 
 
 ## Dependencies
